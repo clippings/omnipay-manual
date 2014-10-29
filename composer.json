@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/manual",
+    "name": "clippings/omnipay-manual",
     "type": "library",
     "description": "Manual driver for the Omnipay payment processing library",
     "keywords": [
